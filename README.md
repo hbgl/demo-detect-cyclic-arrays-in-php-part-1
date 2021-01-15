@@ -8,5 +8,5 @@ php 01-a-pure-php-solution.php
 ```
 
 I also included the diagram of PHP's abstract memory model for executing the broken `is_cyclic` function:
-- [SVG drawing](https://github.com/hbgl/demo-detect-cyclic-arrays-in-php-part-1/blob/main/php-cyclic-array-model.svg)
-- [draw.io file](https://github.com/hbgl/demo-detect-cyclic-arrays-in-php-part-1/blob/main/php-cyclic-array-model.drawio)
+- [SVG drawing](https://github.com/hbgl/demo-why-it-is-impossible-to-detect-cyclic-arrays-in-pure-php/blob/main/php-cyclic-array-model.svg)
+- [draw.io file](https://github.com/hbgl/demo-why-it-is-impossible-to-detect-cyclic-arrays-in-pure-php/blob/main/php-cyclic-array-model.drawio)
