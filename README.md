@@ -1,4 +1,4 @@
-This repository contains the code snippets from the accompanying blog post: https://hbgl.dev/checking-if-a-php-array-contains-cycles-part-1/
+This repository contains the code snippets from the accompanying blog post: https://hbgl.dev/why-it-is-impossible-to-detect-cyclic-arrays-in-pure-php/
 
 The PHP scripts are intended to be run from the CLI.
 
